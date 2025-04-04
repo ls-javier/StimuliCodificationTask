@@ -1,0 +1,16 @@
+Clase 1
+Nmero de ensayos correctos: 1063
+Nmero total de ensayos: 1063
+Porcentaje de ensayos correctos: 100
+Clase 2
+Nmero de ensayos correctos: 996
+Nmero total de ensayos: 996
+Porcentaje de ensayos correctos: 100
+Clase 3
+Nmero de ensayos correctos: 972
+Nmero total de ensayos: 972
+Porcentaje de ensayos correctos: 100
+Clase 4
+Nmero de ensayos correctos: 969
+Nmero total de ensayos: 969
+Porcentaje de ensayos correctos: 100

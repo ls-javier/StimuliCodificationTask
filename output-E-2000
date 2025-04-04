@@ -1,0 +1,15 @@
+{Error using cd
+Cannot CD to Resultados/Test_Delay1500 (Name is nonexistent or not a
+directory).
+
+Error in run_model_test (line 762)
+cd([result_folder '/' folder_result_delay])
+
+
+Error in demo_SN (line 335)
+    ERR_RLS =
+    run_model_test('RLStest',Ttest,task,delay_values,histogram_ISI,uPC,Imu,dJ_PC,w,hint);
+    
+Error in aux_function (line 4)
+demo_SN;
+} 
